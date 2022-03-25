@@ -6,7 +6,7 @@ import java.util.List;
 public class SpacedLogger implements Logger{
 
 	@Override
-	public void log(String log) { //H e l l o
+	public void log(String log) { 
 		int y = log.length();		
 		for (int i = 0; i < y; i++) {
 			System.out.print(log.charAt(i) + " ");

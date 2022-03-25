@@ -1,6 +1,6 @@
 package assignments;
 
-public class App { // this class is defining what asteriskLogger and spacedLogger class
+public class App { // for defining asteriskLogger and spacedLogger class
 
 	public static void main(String[] args) {
 
